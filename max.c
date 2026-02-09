@@ -22,4 +22,5 @@ int main()
 {    int arr[]={3,4,6,9,2};
     int n=sizeof(arr)/sizeofarr(arr[0]);
      printf("%d",getsmax(arr,n));
+
 }
